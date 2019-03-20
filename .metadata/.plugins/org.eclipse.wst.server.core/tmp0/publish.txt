@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Mar 19 16:28:08 IST 2019
+org.eclipse.jst.j2ee.server\:ecommerce-service=WEB-INF/lib/ecommerce-service-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:ecommerce-dao=WEB-INF/lib/ecommerce-dao-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:ecommerce-data=WEB-INF/lib/ecommerce-data-0.0.1-SNAPSHOT.jar

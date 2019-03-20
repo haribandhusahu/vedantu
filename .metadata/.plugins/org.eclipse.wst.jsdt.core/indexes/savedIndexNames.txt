@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Projects\Vedantu\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+9288677.index
+1517266731.index
+540102357.index
+2145526089.index
+770443748.index
+2628163076.index
+3860784101.index
